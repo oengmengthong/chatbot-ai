@@ -6,23 +6,33 @@ https://colab.research.google.com/drive/1VP1ntAjiW7NbmujSTV5-buYEB2At8stB?usp=sh
 
 ## create env
 
+```
 python3 -m venv chatbot-env
+```
 
 ## run by active env
 
+```
 source chatbot-env/bin/activate
+```
 
 ## run train model chatbot
 
+```
 python chatbot.py
+```
 
 ## run pre-train model chatbot
 
+```
 python pre_train_chatbot.py
+```
 
 ## run test with api request
 
+```
 python app.py
+```
 
 ## api
 
