@@ -1,3 +1,9 @@
+## Colab Link
+
+```
+https://colab.research.google.com/drive/1VP1ntAjiW7NbmujSTV5-buYEB2At8stB?usp=sharing
+```
+
 ## create env
 
 python3 -m venv chatbot-env
